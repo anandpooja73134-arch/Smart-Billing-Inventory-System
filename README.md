@@ -1,2 +1,3 @@
-# Smart-Billing-Inventory-System
-PPS-Project-Group-3-Smart-Billing-Inventory-System
+# Smart Billing & Inventory System
+PPS Nimbus Project - AIML-1-Group 3-Project No. 3
+Language: C Programming
